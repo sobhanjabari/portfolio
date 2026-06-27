@@ -28,16 +28,3 @@ AI and data-science notebooks covering RAG, LangChain chains/tools/agents, promp
   - `NOTEBOOK_REVIEW.tsv` — notebook metadata/review table.
   - `SENSITIVE_REVIEW.txt` — sensitive-keyword scan notes.
 
-## Before publishing to GitHub
-
-Please manually review the staged notebooks once more and confirm:
-
-- Every notebook is yours or otherwise safe to publish.
-- Datasets, screenshots, embedded images, and text content do not contain private information.
-- API usage relies on environment variables, Colab `userdata`, or prompts rather than hard-coded secrets.
-- Any private Google Drive paths or local paths are either removed, generalized, or acceptable for public viewing.
-- Large notebooks are acceptable for your repository size limits.
-
-## Suggested repository description
-
-> A curated portfolio of machine-learning, deep-learning, NLP, RAG, LangChain, and data-science notebooks prepared from Google Colab/Jupyter projects.
