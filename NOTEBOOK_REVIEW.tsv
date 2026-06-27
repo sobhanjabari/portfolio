@@ -1,0 +1,47 @@
+path	cells	outputs	exec_counts	errors	sensitive_hits	title
+01_course_chapters\Chapter1_Demo1_flask_chatbot.ipynb	8	0	0	0		
+01_course_chapters\Chapter1_Solution-chatbot.ipynb	9	0	0	0		
+01_course_chapters\Chapter1_Solution.ipynb	9	0	0	0		
+01_course_chapters\Chapter1Challenge_SiameseNetwork.ipynb	12	0	0	0		Challenge: Create a Siamese Network with Custom Layers, Custom Losses, and Custom Outputs
+01_course_chapters\Chapter1Demo1_MultiOutputModel.ipynb	10	0	0	0		Creating a Multi Output Model
+01_course_chapters\Chapter1Demo2_CustomLossFunction.ipynb	10	0	0	0		Custom Loss Functions
+01_course_chapters\Chapter1Demo3_CustomLayer.ipynb	11	0	0	0		Custom Layers
+01_course_chapters\Chapter1Demo4_CustomModelSiamese.ipynb	8	0	0	0		Creating a Siamese Network
+01_course_chapters\Chapter2_Demo1_Flan-T5-Chatbot.ipynb	8	0	0	0		
+01_course_chapters\Chapter2_Demo1_Flan_T5_Chatbot.ipynb	8	0	0	0		
+01_course_chapters\Chapter2_Demo1_PromptingFlanT5.ipynb	10	0	0	0		Prompting Flan-T5
+01_course_chapters\Chapter2_Demo2_Prompting_FlanT5_ICL_FewShot.ipynb	10	0	0	0		Enhanced Prompting with Flan-T5 using In-Context Learning and Few-Shot Pattern
+01_course_chapters\Chapter2_Solution.ipynb	15	0	0	0		Article Translation using Few-Shot Learning with Flan-T5
+01_course_chapters\Chapter2Challenge_Denoise.ipynb	9	0	0	0		
+01_course_chapters\Chapter2Demo1_SimpleAutoEncoder.ipynb	4	0	0	0		
+01_course_chapters\Chapter2Demo2_DeepAutoEncoder.ipynb	8	0	0	0		
+01_course_chapters\Chapter3_Demo1_Pruning.ipynb	9	0	0	0		
+01_course_chapters\Chapter3_Demo1_TransferLearning.ipynb	21	0	0	0		Translation from English to Spanish using Flan-T5 and Helsinki-NLP/opus-100 Dataset
+01_course_chapters\Chapter3_Demo2_Distillation.ipynb	19	0	0	0		Knowledge Distillation with TensorFlow and HuggingFace
+01_course_chapters\Chapter3Demo1_Encoder.ipynb	5	0	0	0		
+01_course_chapters\Chapter3Demo2_LossFunction.ipynb	6	0	0	0		
+02_projects_portfolio\faradars_project.ipynb	50	0	0	0	api_key;password;colab_drive	![rag.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACeQAAAUTCAYAAACptbAOAAAACXBIWXMAA
+02_projects_portfolio\final_project_1_preprocessing.ipynb	23	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\final_project_2_exploration.ipynb	3	0	0	0		
+02_projects_portfolio\final_project_3_market_study.ipynb	12	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\final_project_4_rfm.ipynb	34	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\portfolio_project.ipynb	40	0	0	0		"**bold text**<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\portfolio_project_2_analysis.ipynb	29	0	0	0		
+02_projects_portfolio\project1_step1.ipynb	29	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\project1_step2.ipynb	24	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\project1_step3.ipynb	26	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+02_projects_portfolio\Unit 10-Pyomo, Job Shift Model.ipynb	41	0	0	0		Job Shift Problem
+03_ai_data_science\bank_marketing.ipynb	33	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\Cat_or_Dog_CNN.ipynb	17	0	0	0		"<h4 dir=rtl align=right style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\chains.ipynb	33	0	0	0	api_key	Chains allow us to combine multiple components together to create a single, coherent appli
+03_ai_data_science\fake_news_detection.ipynb	30	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\mall_customer_segmentation.ipynb	35	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\mnist.ipynb	34	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\persian_news_recommender_system.ipynb	40	0	0	0	token	<div dir=center>
+03_ai_data_science\prompts.ipynb	50	0	0	0	api_key;password	**What is prompt?**
+03_ai_data_science\RAG_Generate.ipynb	70	0	0	0	api_key	Putting the G(enerate) in RAG
+03_ai_data_science\search_analysis.ipynb	35	0	0	0		"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\spam_detection.ipynb	31	0	0	0		"<h2 align=right style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\text_categorization.ipynb	41	0	0	0	token	"<h1 align=center style=""line-height:200%;font-family:vazir;color:#0099cc"">"
+03_ai_data_science\Text_Preprocessing_and_Analysis.ipynb	2	0	0	0		
+03_ai_data_science\tools_agents.ipynb	13	0	0	0	api_key	کد بالا فقط برای این نوشته شده که شما بتونید یک
